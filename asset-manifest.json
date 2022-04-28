@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/input-form-with-validations/static/css/main.275eca3b.css",
+    "main.js": "/input-form-with-validations/static/js/main.4d46d891.js",
+    "index.html": "/input-form-with-validations/index.html",
+    "main.275eca3b.css.map": "/input-form-with-validations/static/css/main.275eca3b.css.map",
+    "main.4d46d891.js.map": "/input-form-with-validations/static/js/main.4d46d891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275eca3b.css",
+    "static/js/main.4d46d891.js"
+  ]
+}
